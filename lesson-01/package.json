@@ -1,0 +1,19 @@
+{
+  "name": "lesson-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "ansi-escapes": "^7.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}

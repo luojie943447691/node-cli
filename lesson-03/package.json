@@ -1,0 +1,25 @@
+{
+  "name": "lesson-03",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx ./src/index.ts",
+    "dev1": "tsx ./src/test.ts",
+    "dev2": "tsx ./src/test2.ts",
+    "listtest": "tsx ./src/list-test.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "ansi-escapes": "^7.0.0",
+    "chalk": "^5.3.0"
+  }
+}
