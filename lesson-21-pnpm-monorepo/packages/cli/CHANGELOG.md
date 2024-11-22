@@ -1,5 +1,13 @@
 # @rojer-pnpm/cli
 
+## 1.1.1
+
+### Patch Changes
+
+- 重新发布
+- Updated dependencies
+  - @rojer-pnpm/core@1.1.1
+
 ## 1.1.0
 
 ### Minor Changes

@@ -1,5 +1,11 @@
 # @rojer-pnpm/core
 
+## 1.1.1
+
+### Patch Changes
+
+- 重新发布
+
 ## 1.1.0
 
 ### Minor Changes
