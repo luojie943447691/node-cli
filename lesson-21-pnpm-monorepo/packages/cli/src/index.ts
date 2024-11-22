@@ -5,7 +5,6 @@ import { add, minus } from '@rojer-pnpm/core';
 
 const program = new Command();
 
-
 program
   .name('num cli')
   .description('计算数字加减')
